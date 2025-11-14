@@ -25,8 +25,7 @@ Mohamed Mahmoud Hosni
 
 
 ---
-
-Tools & Technologies
+<h1>Tools & Technologies</h1>
 
 <p>
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -40,13 +39,15 @@ Tools & Technologies
 <p>
 
 ---
-<h1>🧪 Methodology</h1>
+<h1> Methodology</h1>
 <ul style="font-size:18px; line-height:1.8;">
   <li><strong>Data Cleaning</strong> → Checked for missing values, incorrect types, duplicates</li>
   <li><strong>Data Modeling</strong> → Built a star schema</li>
   <li><strong>Exploratory Data Analysis (EDA)</strong> → Used Python & Excel to uncover trends, develop hypotheses</li>
   <li><strong>Dashboards</strong> → Created actionable visualizations with Power BI & Tableau</li>
 </ul>
+
+
 ---  
 
 <h1>How to Use</h1>
@@ -69,6 +70,8 @@ Tools & Technologies
 
 <h1>Project Link</h1>
 - [Google Drive Folder](https://drive.google.com/drive/folders/1nJA8oBAAJ-Ir63alAvJKUeM3un5LP371?usp=drive_link)
+
+---
 
 -<h1>LinkedIn Profiles</h1>
 - [Kerolles Abo alnasr](https://www.linkedin.com/in/kerolles-abo-alnasr)
