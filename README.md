@@ -44,7 +44,7 @@ Mohamed Mahmoud Hosni
   <li><strong>Data Cleaning</strong> → Checked for missing values, incorrect types, duplicates</li>
   <li><strong>Data Modeling</strong> → Built a star schema</li>
   <li><strong>Exploratory Data Analysis (EDA)</strong> → Used Python & Excel to uncover trends, develop hypotheses</li>
-  <li><strong>Dashboards</strong> → Created actionable visualizations with Power BI & Tableau</li>
+  <li><strong>Dashboards</strong> → Created actionable visualizations with Excel & Power BI & Tableau</li>
 </ul>
 
 
